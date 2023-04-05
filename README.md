@@ -14,7 +14,7 @@
 | HUVEC  |  H3k4me2 |  H3k4me2StdAlnRep1.bam    |  ControlStdAlnRep1.bam |
 | HUVEC  |  H3k4me3 |  H3k4me3StdAlnRep1.bam     |  ControlStdAlnRep1.bam |
 | HUVEC  | H3k79me2  | H3k79me2AlnRep1.bam    |  ControlStdAlnRep1.bam |
-| HUVEC  |  H3k9ac |  H3k9acStdAlnRep1.bam   |   |
+| HUVEC  |  H3k9ac |  H3k9acStdAlnRep1.bam   | ControlStdAlnRep1.bam   |
 | HUVEC  | H3k9me1  |  H3k9me1StdAlnRep1.bam   |  ControlStdAlnRep1.bam |
 
 
