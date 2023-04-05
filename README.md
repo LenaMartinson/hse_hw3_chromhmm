@@ -19,4 +19,14 @@
 | HUVEC  |  H3k9ac |  H3k9acStdAlnRep1.bam   | ControlStdAlnRep1.bam   |
 | HUVEC  | H3k9me1  |  H3k9me1StdAlnRep1.bam   |  ControlStdAlnRep1.bam |
 
+Выдача ChromHMM:
 
+![](ChromHMM/emissions_12.png)
+
+![](ChromHMM/transitions_12.png)
+
+![](ChromHMM/Huvec_12_overlap.png)
+
+![](ChromHMM/Huvec_12_RefSeqTES_neighborhood.png)
+
+![](ChromHMM/Huvec_12_RefSeqTSS_neighborhood.png)
