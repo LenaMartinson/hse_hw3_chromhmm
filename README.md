@@ -1,5 +1,7 @@
 # hse_hw3_chromhmm
 
+Ссылка на colab: https://colab.research.google.com/drive/1adQQPYY-_oYupe8h-1n6V8GOwgiwdSrY?usp=sharing
+
 Так как в таблице c CHIP-seq эксперементами не оказалось моей клеточной линии, я взяла другую - HUVEC.
 
 **cellmarkfiletable.txt**
